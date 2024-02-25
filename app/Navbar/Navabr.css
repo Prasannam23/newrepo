@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#body{
+    background-color: #FFFFFF;
+}
+#newpage{
+    background-color: #FFFFFF;
+}
+
+ /* .button {
+    background-color: #8a3ffc; 
+    color: #ffffff; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease; 
+    box-shadow: 0px 4px 6px rgba(138, 63, 252, 0.1); 
+  }
+  
+  .button:hover {
+    box-shadow: 0px 8px 12px rgba(138, 63, 252, 0.2); 
+  }  */
+  .neon {
+    text-decoration: none;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  }
+  .neon:hover {
+    background-color: #FFFFFF;
+    color: rgb(128, 90, 213,1);
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0px 0px 15px 5px rgba(123, 85, 203, 0.9);
+  }
+  
+ 
