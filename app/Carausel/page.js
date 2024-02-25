@@ -2,8 +2,7 @@
 import React from 'react';
 import Image from 'next/image'; 
 import sense from '../../public/image1.png';
-import { Carousel } from 'react-responsive-carousel';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
+
 const informationArray = [
   {
     name: "Basics of NABL",
